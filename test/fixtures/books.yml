@@ -4,12 +4,12 @@ one:
   title: MyString
   author: MyString
   isbn: MyString
-  description: MyText
+  description: MyString
   language: MyString
 
 two:
   title: MyString
   author: MyString
   isbn: MyString
-  description: MyText
+  description: MyString
   language: MyString

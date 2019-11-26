@@ -5,11 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* The application is using thinking-spinx for search and redis-rails for caching
 
-* System dependencies
+* To start the server rake ts:start
 
-* Configuration
+* TO rebuild the index rake ts:rebuild
 
 * Database creation
 
