@@ -10,15 +10,3 @@ Things you may want to cover:
 * To start the server rake ts:start
 
 * TO rebuild the index rake ts:rebuild
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
